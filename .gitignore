@@ -1,0 +1,7 @@
+/venv
+/Book Recommendation System - Part 1 (EDA).ipynb
+/Book Recommendation System - Part 2 (Modeling).ipynb
+/img
+/.ipynb_checkpoints
+data/books_enriched.csv
+data/ratings.csv
