@@ -1,7 +1,5 @@
 /venv
 /.ipynb_checkpoints
-data/books_enriched.csv
-data/ratings.csv
 /models/dump_knn
 /models/dump_np
 /models/dump_svd

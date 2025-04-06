@@ -1,1 +1,2 @@
 models/dump_tuning filter=lfs diff=lfs merge=lfs -text
+data/ratings.csv filter=lfs diff=lfs merge=lfs -text
